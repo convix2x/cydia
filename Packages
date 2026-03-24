@@ -1,0 +1,17 @@
+Package: io.github.convix2x.ihatenewsstand
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: Coni S
+Installed-Size: 104
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/io.github.convix2x.ihatenewsstand_1.0.0-1+debug_iphoneos-arm.deb
+Size: 3046
+MD5sum: c39595b63310bce34b6d7fa0a60092a8
+SHA1: 2197b5c0e3ba512cab4860265f4d14075226784d
+SHA256: 953abccc20f2b41ff9d1b48f9db4382b60badf11175ae73c918e14da51cbdedc
+Section: Tweaks
+Description: Removes the Newsstand icon. I hate it. WE hate it,
+Author: Coni S
+Name: IHateNewsstand
+
+
