@@ -1,3 +1,20 @@
+Package: io.github.convix2x.Auxo
+Version: 1.1-4
+Architecture: iphoneos-arm
+Maintainer: Coni S <coni@national.shitposting.agency>
+Installed-Size: 2077
+Depends: firmware (>= 5.1), mobilesubstrate, preferenceloader
+Filename: debs/auxo-arch.deb
+Size: 1427796
+MD5sum: 39f7e73fe9bcf0e84aa31364936c47af
+SHA1: 0b2a6cfabc590b6bcd0df4ee7aedd7fa07ba3f11
+SHA256: dd17cd86c5b6db8df2f1b01b6b5e727882f8e723d4579823cfd8b4cbaea34c69
+Section: Mod
+Description: Auxo - A fantastic re-imagined multitasking bar!
+Author: A3tweaks <A3tweaks@gmail.com>
+Icon: file:///Library/PreferenceLoader/Preferences/AuxoIcon@2x.png
+Name: Auxo (iOS 5 and 6)
+
 Package: io.github.convix2x.ihatenewsstand
 Version: 1.0.0-1+debug
 Architecture: iphoneos-arm
