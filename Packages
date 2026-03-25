@@ -12,7 +12,7 @@ Section: Tweaks
 Description: Auxo - A fantastic re-imagined multitasking bar!
 Author: A3tweaks <A3tweaks@gmail.com>
 Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=auxoDp
-Icon: file:///Library/PreferenceLoader/Preferences/AuxoIcon@2x.png
+Icon: https://convix2x.github.io/cydia/AuxoIcon@2x.png
 Name: Auxo (iOS 5 and 6)
 Sponsor: coni.nekoweb.org
 
